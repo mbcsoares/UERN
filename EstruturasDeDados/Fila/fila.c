@@ -3,7 +3,7 @@
 #include "fila.h"
 
 //=======================================//
-//============ FILA DIN¬MICA ============//
+//============ FILA DIN√ÇMICA ============//
 
 void Inserir(Fila* fila, int dado)
 {
@@ -61,7 +61,7 @@ void Esvaziar(Fila* fila)
 
 
 //=======================================//
-//============ FILA EST¡TICA ============//
+//============ FILA EST√ÅTICA ============//
 
 void FVCriar(FilaVetor* fila, int capacidade)
 {
