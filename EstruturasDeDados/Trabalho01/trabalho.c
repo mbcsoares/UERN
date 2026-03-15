@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "trabalho.h"
 
-//========= FUNÇÕES AUXILIARES ==========//
+//========= FUNÃ‡Ã•ES AUXILIARES ==========//
 
 char CoverterParaMaiusculo(char c)
 {
@@ -84,7 +84,7 @@ void ImprimirLista(struct No* lista)
 	while (lista != NULL)
 	{
 		printf("Nome: %s\n", lista->nome);
-		printf("Matrícula: %d\n", lista->mat);
+		printf("MatrÃ­cula: %d\n", lista->mat);
 		printf("\n");
 
 		lista = lista->prox;
@@ -105,7 +105,7 @@ void LimparLista(struct No* lista)
 
 //=====================================//
 
-//========== FUNÇÕES PRINCIPAIS =========//
+//========== FUNÃ‡Ã•ES PRINCIPAIS =========//
 
 struct No* inserir(struct No* lista, int mat, char* nome)
 {
@@ -228,14 +228,3 @@ int tamanho(struct No* lista)
 
 	return cont;
 }
-
-
-
-
-
-
-
-
-
-
-
