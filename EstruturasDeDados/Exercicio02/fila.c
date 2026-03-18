@@ -39,7 +39,7 @@ int inserir(struct Fila *f, int num)
 			
 			vrf = 1;
 			
-			printf("\nPassou aqui\n");
+			//printf("\nPassou aqui\n");
 			
 		}
 	}
