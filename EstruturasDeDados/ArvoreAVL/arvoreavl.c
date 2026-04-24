@@ -299,6 +299,8 @@ struct NoAVL* removerAVL(struct NoAVL* arv, int chave, char** nome)
                 arv->FB--;
             }
         }
+
+        arv = Balancear(arv);
     }
 
     return arv;
