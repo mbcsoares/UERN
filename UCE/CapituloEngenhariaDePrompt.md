@@ -140,12 +140,6 @@ Embora ainda em estágio de desenvolvimento menos consolidado que as modalidades
 **Uso na educação:** Gravação de videoaulas automatizadas, criação de personagens explicativos, produção de conteúdo digital com linguagem acessível. ✱ A possibilidade de gerar vídeos com avatares que se comunicam em Libras ou com expressões faciais e corporais que auxiliam na compreensão de conteúdos por alunos surdos ou com TEA representa uma fronteira promissora para a educação inclusiva, embora ainda demande validação quanto à qualidade e à fidedignidade das representações geradas.
 
 
-Aqui está a reescrita do trecho, incorporando o fio condutor da Educação Especial e a metáfora didática do "estagiário erudito" já estabelecida na seção anterior.
-
----
-
-Aqui está a reescrita da seção 2.1, incorporando o fio condutor da Educação Especial e expandindo os exemplos para contemplar cenários inclusivos, conforme as diretrizes estabelecidas.
-
 ---
 
 ## 2. ENGENHARIA DE PROMPTS
@@ -255,9 +249,6 @@ O mesmo raciocínio que orientou o aprimoramento do prompt sobre "O Pequeno Prí
 
 Com esse acréscimo, o mesmo prompt que gera a atividade para a turma geral produz, simultaneamente, a adaptação necessária para o estudante com deficiência, garantindo-lhe acesso ao mesmo conteúdo literário com o nível de apoio requerido. A engenharia de prompt revela-se, assim, não apenas uma técnica de otimização, mas um instrumento de equidade pedagógica.
 
----
-
-Aqui está a reescrita da seção 2.2, com a expansão do conceito de funcionamento probabilístico dos modelos e sua conexão com a prática pedagógica na Educação Especial.
 
 ---
 
@@ -287,9 +278,6 @@ Em segundo lugar, o risco de alucinações assume gravidade adicional quando o c
 
 Em síntese, a natureza probabilística dos modelos de IA Generativa não constitui uma limitação incontornável, mas uma característica de funcionamento que, uma vez compreendida, pode ser gerenciada e direcionada por meio da engenharia de prompt. O domínio dessa dinâmica — oferecer contexto suficiente para restringir as probabilidades na direção desejada e, simultaneamente, manter vigilância crítica sobre o produto gerado — configura-se como uma competência central para o educador contemporâneo.
 
----
-
-Aqui está a reescrita da seção 2.3, com a devida ancoragem na Educação Especial e a ampliação dos conceitos apresentados nas anotações originais.
 
 ---
 
@@ -352,9 +340,6 @@ Para que uma instrução complexa se torne, além de eficaz, inclusiva, basta qu
 
 Com essa adição, a instrução complexa transforma-se em instrução inclusiva: o mesmo prompt que gera a atividade para a turma geral produz, simultaneamente, a adaptação necessária para o estudante que requer apoio adicional. O tempo de produção é o mesmo; o alcance pedagógico, contudo, é significativamente ampliado.
 
----
-
-Aqui está a reescrita da seção 2.4, com a incorporação do fio condutor da Educação Especial, a expansão do exercício prático para contemplar um cenário inclusivo e a transformação das notas em prosa acadêmica fluida.
 
 ---
 
@@ -468,9 +453,6 @@ O prompt-modelo mobiliza, de forma integrada, as seguintes práticas fundamentai
 
 O prompt gera, em uma única interação, um material didático completo que atende tanto aos alunos da turma geral quanto ao aluno com deficiência intelectual. O professor recebe o conteúdo já estruturado e adaptado, eliminando a necessidade de retrabalho e garantindo que todos os estudantes tenham acesso ao mesmo objeto de conhecimento com o nível de apoio de que cada um necessita. Esse é, precisamente, o horizonte que a engenharia de prompt, aplicada à Educação Especial, permite alcançar: a personalização eficiente a serviço da equidade.
 
----
-
-Aqui está a reescrita da seção 2.5, com a reorganização didática das técnicas, a incorporação de exemplos ancorados na Educação Especial e a transformação das notas em prosa acadêmica fluida.
 
 ---
 
@@ -840,9 +822,6 @@ Destinam-se a situações específicas que demandam abordagens mais sofisticadas
 
 A progressão sugerida para o professor que se inicia na engenharia de prompt é: começar pelo domínio do *Zero-Shot* (para tarefas cotidianas simples) e do *Chain-of-Thought* (para tarefas que exigem raciocínio); incorporar o *Few-Shot* e o *Prompt Chaining* à medida que a necessidade de padronização e adaptação de materiais se apresentar; e explorar as técnicas avançadas conforme a confiança e a familiaridade com a ferramenta aumentarem. As técnicas especializadas podem ser compreendidas como um horizonte de expansão, a ser alcançado quando as demandas pedagógicas assim o exigirem.
 
----
-
-Aqui está a reescrita da seção 3.1, com a incorporação do fio condutor da Educação Especial e a transformação das notas em prosa acadêmica fluida.
 
 ---
 
@@ -939,9 +918,6 @@ Algumas aplicações específicas merecem destaque:
 
 Em todos esses casos, a qualidade da imagem gerada — sua clareza comunicativa, sua adequação ao perfil do aluno e sua pertinência ao objetivo pedagógico — é diretamente proporcional à qualidade do prompt que a origina. A engenharia de prompt para imagens, que será detalhada na seção seguinte, constitui, portanto, uma competência de primeira ordem para o professor que atua na perspectiva da educação inclusiva.
 
----
-
-Aqui está a reescrita da seção 3.2, com a incorporação do fio condutor da Educação Especial, a expansão do exercício prático para contemplar um cenário inclusivo e a transformação das notas em prosa acadêmica fluida.
 
 ---
 
@@ -1085,11 +1061,6 @@ O conhecimento dessas limitações não desautoriza o uso dos geradores de image
 
 No contexto da Educação Especial, essa avaliação crítica é ainda mais necessária. Uma imagem com distorções anatômicas ou com texto ilegível pode, para um aluno com deficiência intelectual ou TEA, não apenas falhar em seu propósito de apoio, mas introduzir confusão adicional. A curadoria rigorosa do professor sobre o material gerado é, portanto, a última e mais importante etapa do processo.
 
----
-
-Perfeito. A concordância com o reposicionamento e a estrutura proposta consolida um direcionamento seguro, ético e academicamente rigoroso para esta seção, que se torna um dos pontos de maior inovação do seu capítulo.
-
-Procederei agora à reescrita completa da seção **3.3. IA para Análise de Desenhos e Pinturas como Ferramenta de Observação Pedagógica**, seguindo integralmente o plano aprovado e incorporando as ressalvas que discutimos.
 
 ---
 
