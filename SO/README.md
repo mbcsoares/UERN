@@ -1,8 +1,20 @@
+# README.md
+
 # Problema Leitores-Escritores com Semáforos
 
 ## 📋 Descrição
 
 Este projeto implementa uma solução para o clássico **Problema dos Leitores-Escritores** utilizando **semáforos POSIX** em C com a biblioteca `pthreads`. O programa simula múltiplas threads leitoras e escritoras acessando concorrentemente um recurso compartilhado, garantindo as condições de sincronização necessárias.
+
+---
+
+## 🎓 Informações Acadêmicas
+
+| Campo | Informação |
+|-------|------------|
+| **Disciplina** | Sistemas Operacionais |
+| **Docentes** | Profa. Glaucia Medeiros e Profa. Artemísia |
+| **Discentes** | Manoel de Medeiros, Micael Bruno, Rafael Manna |
 
 ---
 
@@ -167,9 +179,14 @@ gcc main.c -o leitores_escritores -lpthread
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Implementação didática do problema Leitores-Escritores com semáforos POSIX.
+- Manoel de Medeiros
+- Micael Bruno
+- Rafael Manna
+
+**Disciplina:** Sistemas Operacionais
+**Docentes:** Profa. Glaucia Medeiros e Profa. Artemísia
 
 ---
 
